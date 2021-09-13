@@ -2,7 +2,7 @@
  * gipPlayfab.h
  *
  *  Created on: 13 Sep 2021
- *      Author: noyan
+ *      Author: Noyan
  */
 
 #ifndef SRC_GIPPLAYFAB_H_
